@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Hello hello";
+var truth = "Hello flat earth";
